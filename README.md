@@ -7,5 +7,7 @@ The code has been adapted to run on SDAccel 2017.1 with Makefile flow.
 
 
 Lorenzo Di Tucci [website](http://www.lorenzoditucci.com) [LinkedIn](https://www.linkedin.com/in/lorenzoditucci)
+
 Giulia Guidi [LinkedIn](https://www.linkedin.com/in/giulia-guidi-376522b0)
+
 Marco D. Santambrogio [LinkedIn](https://www.linkedin.com/in/santambr)
